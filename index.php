@@ -17,9 +17,6 @@ switch ($route) {
     case 'game':
         $script = 'game.php';
         break;
-    case 'end':
-        $script = 'end.php';
-        break;
     default:
         $script = '404.php';
         break;
