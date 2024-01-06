@@ -27,5 +27,5 @@ switch ($route) {
 
 // View
 require "includes/header.php";
-require "includes/$script";
+require "app/$script";
 require "includes/footer.php";

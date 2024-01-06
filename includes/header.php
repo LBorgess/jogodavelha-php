@@ -10,4 +10,4 @@
     <title>Jogo da Velha</title>
 </head>
 
-<body>
+<body class="bg-dark text-white">
